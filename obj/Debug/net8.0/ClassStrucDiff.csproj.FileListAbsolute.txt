@@ -1,0 +1,14 @@
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\bin\Debug\net8.0\ClassStrucDiff.exe
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\bin\Debug\net8.0\ClassStrucDiff.deps.json
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\bin\Debug\net8.0\ClassStrucDiff.runtimeconfig.json
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\bin\Debug\net8.0\ClassStrucDiff.dll
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\bin\Debug\net8.0\ClassStrucDiff.pdb
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\obj\Debug\net8.0\ClassStrucDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\obj\Debug\net8.0\ClassStrucDiff.AssemblyInfoInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\obj\Debug\net8.0\ClassStrucDiff.AssemblyInfo.cs
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\obj\Debug\net8.0\ClassStrucDiff.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\obj\Debug\net8.0\ClassStrucDiff.dll
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\obj\Debug\net8.0\refint\ClassStrucDiff.dll
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\obj\Debug\net8.0\ClassStrucDiff.pdb
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\obj\Debug\net8.0\ClassStrucDiff.genruntimeconfig.cache
+C:\Users\roshani.poojari\Desktop\Training\ClassStrucDiff\obj\Debug\net8.0\ref\ClassStrucDiff.dll
